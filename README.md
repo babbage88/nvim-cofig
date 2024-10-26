@@ -1,5 +1,9 @@
-# 💤 LazyVim
+# nvim-config
 
-A starter template for [LazyVim](https://github.com/LazyVim/LazyVim).
-Refer to the [documentation](https://lazyvim.github.io/installation) to get started.
-# nvim-cofig
+My custimized nvim configs using [LazyVim](https://github.com/LazyVim/LazyVim) as a base
+
+## Install
+
+```
+git clone git@github.com:babbage88/nvim-cofig.git ~/.config/nvim
+```
